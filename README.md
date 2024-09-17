@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ChrisBlauvelt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @ChrisBlauvelt a.k.a. The TechieNeighbor
+- 👀 I’m interested in infrastructure as code, anything to do with Linux, and System Administration!
+- 🌱 I’m currently learning Python,
+- 💞️ I’m looking to collaborate on any projects that I can assist with, and anything to do with Linux, automation, containerization, Infrastructure-as-code, podcasting, music, and microcontrollers!
+- 📫 How to reach me ... 470-665-4100 https://techieneighbor.net/
   - <!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
 
 <div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
@@ -20,8 +20,8 @@ I hope to be able to help solve whatever problems you may need assistance with! 
 </div>
 
  
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him/Nerd
+- ⚡ Fun fact: I am an enormous fitness nut and love keeping my body in step with my mental exercise! 
 
 <!---
 ChrisBlauvelt/ChrisBlauvelt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
