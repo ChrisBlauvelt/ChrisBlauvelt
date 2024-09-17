@@ -19,7 +19,6 @@ I hope to be able to help solve whatever problems you may need assistance with! 
     </a>
 </div>
 
-<script id='fiverr-seller-widget-script-f91fca03-5378-4cac-ac42-748629d61961' src='https://widgets.fiverr.com/api/v1/seller/techieneighbor?widget_id=f91fca03-5378-4cac-ac42-748629d61961' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
  
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
