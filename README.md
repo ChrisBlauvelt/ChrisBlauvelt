@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChrisBlauvelt a.k.a. The TechieNeighbor
 - 👀 I’m interested in infrastructure as code, anything to do with Linux, and System Administration!
-- 🌱 I’m currently learning Python,
+- 🌱 I’m currently learning Python, large-scale data-structures and self-hosting LLMs, open-source eCommerce solutions, and re-familiarizing myself with backend web development.
 - 💞️ I’m looking to collaborate on any projects that I can assist with, and anything to do with Linux, automation, containerization, Infrastructure-as-code, podcasting, music, and microcontrollers!
 - 📫 How to reach me ... 470-665-4100 https://techieneighbor.net/
   - <!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
