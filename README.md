@@ -1,7 +1,19 @@
-- 👋 Hi, I’m @ChrisBlauvelt a.k.a. The TechieNeighbor
-- 👀 I’m interested in infrastructure as code, anything to do with Linux, and System Administration!
-- 🌱 I’m currently learning Python, large-scale data-structures and self-hosting LLMs, open-source eCommerce solutions, and re-familiarizing myself with backend web development.
-- 💞️ I’m looking to collaborate on any projects that I can assist with, and anything to do with Linux, automation, containerization, Infrastructure-as-code, podcasting, music, and microcontrollers!
+$$$$$$$$\                  $$\       $$\           $$\   $$\           $$\           $$\       $$\                           
+\__$$  __|                 $$ |      \__|          $$$\  $$ |          \__|          $$ |      $$ |                          
+   $$ | $$$$$$\   $$$$$$$\ $$$$$$$\  $$\  $$$$$$\  $$$$\ $$ | $$$$$$\  $$\  $$$$$$\  $$$$$$$\  $$$$$$$\   $$$$$$\   $$$$$$\  
+   $$ |$$  __$$\ $$  _____|$$  __$$\ $$ |$$  __$$\ $$ $$\$$ |$$  __$$\ $$ |$$  __$$\ $$  __$$\ $$  __$$\ $$  __$$\ $$  __$$\ 
+   $$ |$$$$$$$$ |$$ /      $$ |  $$ |$$ |$$$$$$$$ |$$ \$$$$ |$$$$$$$$ |$$ |$$ /  $$ |$$ |  $$ |$$ |  $$ |$$ /  $$ |$$ |  \__|
+   $$ |$$   ____|$$ |      $$ |  $$ |$$ |$$   ____|$$ |\$$$ |$$   ____|$$ |$$ |  $$ |$$ |  $$ |$$ |  $$ |$$ |  $$ |$$ |      
+   $$ |\$$$$$$$\ \$$$$$$$\ $$ |  $$ |$$ |\$$$$$$$\ $$ | \$$ |\$$$$$$$\ $$ |\$$$$$$$ |$$ |  $$ |$$$$$$$  |\$$$$$$  |$$ |      
+   \__| \_______| \_______|\__|  \__|\__| \_______|\__|  \__| \_______|\__| \____$$ |\__|  \__|\_______/  \______/ \__|      
+                                                                           $$\   $$ |                                        
+                                                                           \$$$$$$  |                                        
+                                                                            \______/                                         
+
+Hi, I’m @ChrisBlauvelt a.k.a. The TechieNeighbor
+I’m digging infrastructure as code, anything to do with Linux, and System Administration!
+I’m always learning something new, and exploring new projects, but I love NixOS, and am attempting to brush up on all of my code language-base to be more versatile in implementations. 
+I’m looking to collaborate on any projects that I can assist with, and anything to do with Linux, automation, containerization, Infrastructure-as-code, podcasting, music, and microcontrollers!
 - 📫 How to reach me ... 470-665-4100 https://techieneighbor.net/
   - <!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
 
