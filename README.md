@@ -1,3 +1,4 @@
+![Static Badge](https://img.shields.io/badge/TurboNerd)
 
 Hi, I’m @ChrisBlauvelt a.k.a. The TechieNeighbor
 
